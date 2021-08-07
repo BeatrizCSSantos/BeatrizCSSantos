@@ -45,6 +45,3 @@ Feel free to contact me by email or LinkedIn! 😉
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beatrizcssantos&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="BeatrizDev" /></p>
 
 
-
-
-
