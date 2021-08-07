@@ -1,5 +1,5 @@
-<h1 align="center">Hi! I'm Beatriz! <img src="https://media.giphy.com/media/OBnIvqqpKFbZam9Wmj/giphy.gif" width="100px"></h2><br>
-<h2 align="center">🚀 💛 It may take a while, but i can learn all i want!</h2><br>
+<h2 align="center">Hi! I'm Beatriz! <img src="https://media.giphy.com/media/OBnIvqqpKFbZam9Wmj/giphy.gif" width="100px"></h2>
+<h3 align="center">🚀 💛 It may take a while, but i can learn all i want!</h3>
 
 - 👩🏾‍ Studying systems analysis and development!
 - 📚 I’m currently learning **ReactJs and NodeJS**
