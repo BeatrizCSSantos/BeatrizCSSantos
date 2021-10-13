@@ -16,7 +16,7 @@ Feel free to contact me by email or LinkedIn! 😉
 - <a href="https://www.linkedin.com/in/beatriz-c-silva-santos-099b7373/">LinkedIn</a>
 - <a href="beatrizcs96@hotmail.com">E-mail</a>
 
-## Here some Technology i know: 🛠
+## Here some Technologies i know: 🛠
 <div style="display: inline_block"><br> 
 
 <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5">
