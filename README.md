@@ -3,7 +3,6 @@
 
 - 👩🏾‍ Studying systems analysis and development!
 - 📚 I’m currently learning **ReactJs and NodeJS**
-- ⚡ Fun fact:  **I love sewing.**
 
 <br><br>
 🔎 Looking for new opportunities <br>
@@ -11,10 +10,9 @@
 
 ## Contact me 👇🏾
 
-Feel free to contact me by email or LinkedIn! 😉
+Feel free to contact me! 😉
 
 - <a href="https://www.linkedin.com/in/beatriz-c-silva-santos-099b7373/">LinkedIn</a>
-- <a href="beatrizcs96@hotmail.com">E-mail</a>
 
 ## Here some Technologies i know: 🛠
 <div style="display: inline_block"><br> 
