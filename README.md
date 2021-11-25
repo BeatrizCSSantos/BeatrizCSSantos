@@ -2,7 +2,7 @@
 <h2 align="center">🚀 💛 It may take a while, but i can learn all i want!</h2>
 
 - 👩🏾‍ Studying systems analysis and development!
-- 📚 I’m currently learning **ReactJs**
+- 📚 I’m currently learning **React** and **Angular**
 
 <br><br>
 🔎 Looking for new opportunities <br>
