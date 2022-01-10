@@ -36,8 +36,8 @@ Feel free to contact me! 😉
 
 </div> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beatrizcssantos&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="BeatrizDev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beatrizcssantos&show_icons=true&theme=prussian&hide_border=true&locale=en&layout=compact" alt="BeatrizDev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beatrizcssantos&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="BeatrizDev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beatrizcssantos&show_icons=true&theme=prussian&hide_border=true&locale=en" alt="BeatrizDev" /></p>
 
 
