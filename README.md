@@ -38,6 +38,6 @@ Feel free to contact me! 😉
 
 <p><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=beatrizcssantos&show_icons=true&theme=prussian&hide_border=true&locale=en&layout=compact" alt="BeatrizDev" /></p>
 
-<p>&nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatrizcssantos&show_icons=true&theme=prussian&hide_border=true&locale=en" alt="BeatrizDev" /></p>
+<p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatrizcssantos&show_icons=true&theme=prussian&hide_border=true&locale=en" alt="BeatrizDev" /></p>
 
 
