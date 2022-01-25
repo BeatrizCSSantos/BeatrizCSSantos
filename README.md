@@ -15,7 +15,7 @@ Feel free to contact me! 😉
 - <a href="https://www.linkedin.com/in/beatriz-c-silva-santos-099b7373/">LinkedIn</a>
 
 ## Here some Technologies i know: 🛠
-<div style="display: inline_block"><br> 
+<div display="inline_block" align="center">
 
 <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5">
 
