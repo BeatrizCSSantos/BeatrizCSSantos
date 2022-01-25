@@ -2,6 +2,7 @@
 <h2 align="center">🚀 💛 It may take a while, but i can learn all i want!</h2>
 
 - 📚 I’m currently learning **React** and **Angular**
+- 🏡💻 I'm currently working as a Front-end Developer I
 
 <br><br>
 🔎 Looking for new opportunities <br>
@@ -36,8 +37,9 @@ Feel free to contact me! 😉
 
 </div> 
 
-<p><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=beatrizcssantos&show_icons=true&theme=prussian&hide_border=true&locale=en&layout=compact" alt="BeatrizDev" /></p>
-
-<p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatrizcssantos&show_icons=true&theme=prussian&hide_border=true&locale=en" alt="BeatrizDev" /></p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=beatrizcssantos&show_icons=true&theme=prussian&hide_border=true&locale=en&layout=compact" alt="BeatrizDev" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatrizcssantos&show_icons=true&theme=prussian&hide_border=true&locale=en" alt="BeatrizDev" />
+</div>
 
 
