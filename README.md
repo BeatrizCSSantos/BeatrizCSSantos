@@ -2,7 +2,7 @@
 <h2 align="center">🚀 💛 It may take a while, but i can learn all i want!</h2>
 
 - 📚 I’m currently learning **React** and **Angular**
-- 🏡💻 I'm currently working as a Front-end Developer I
+- 🏡💻 I've been working as a Front-end Developer I
 
 <br><br>
 🔎 Looking for new opportunities <br>
@@ -12,7 +12,8 @@
 
 Feel free to contact me! 😉
 
-- <a href="https://www.linkedin.com/in/beatriz-c-silva-santos-099b7373/">LinkedIn</a>
+- <a href="mailto:beatrizcs96@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-1574ff" target="_blank"></a>
+- <a href="https://www.linkedin.com/in/beatriz-c-silva-099b7373/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-2815ff" target="_blank"></a> 
 
 ## Here some Technologies i know: 🛠
 <div display="inline_block" align="center">
