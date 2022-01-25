@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Beatriz! <img src="https://media.giphy.com/media/OBnIvqqpKFbZam9Wmj/giphy.gif" width="100px"></h1>
-<h2 align="center">🚀 💛 It may take a while, but i can learn all i want!</h2>
+<h2 align="center">🚀 💛 It may take a while, but I can learn all that I want!</h2>
 
 - 📚 I’m currently learning **React** and **Angular**
 - 🏡💻 I've been working as a Front-end Developer I
