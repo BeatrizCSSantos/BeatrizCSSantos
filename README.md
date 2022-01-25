@@ -12,7 +12,6 @@
 
 Feel free to contact me! 😉
 
-- <a href="mailto:beatrizcs96@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-1574ff" target="_blank"></a>
 - <a href="https://www.linkedin.com/in/beatriz-c-silva-099b7373/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-2815ff" target="_blank"></a> 
 
 ## Here some Technologies i know: 🛠
