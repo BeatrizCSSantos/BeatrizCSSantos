@@ -5,8 +5,7 @@
 - 🏡💻 I've been working as a Front-end Developer I
 
 <br><br>
-🔎 Looking for new opportunities <br>
-📍  SP <br>
+📍  SP - BR <br>
 
 ## Contact me 👇🏾
 
