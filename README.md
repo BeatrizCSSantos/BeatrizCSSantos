@@ -3,8 +3,7 @@
 
 - 📚 I’m currently learning **React** and **Angular**
 - 🏡💻 I've been working as a Front-end Developer I
-
-<br><br>
+<br>
 📍  SP - BR <br>
 
 ## Contact me 👇🏾
