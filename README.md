@@ -6,11 +6,9 @@
 <br>
 📍  SP - BR <br>
 
-## Contact me 👇🏾
-
-Feel free to contact me! 😉
-
-<a href="https://www.linkedin.com/in/beatriz-c-silva-099b7373/" target="_blank"><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
+## 
+<a href="https://www.linkedin.com/in/beatriz-c-silva-099b7373/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href = "mailto:beatrizcss.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ## Here some Technologies i know: 🛠
 <div display="inline_block" align="center">
