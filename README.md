@@ -37,7 +37,7 @@
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=beatrizcssantos&theme=tokyonight&show_icons=true" alt="BeatrizDev" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=beatrizcssantos&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="BeatrizDev" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizcssantos&layout=compact&langs_count=7&theme=tokyonight" alt="BeatrizDev" />
 </div>
 
 
