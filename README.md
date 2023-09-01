@@ -3,6 +3,7 @@
 
 - 📚 I’m currently learning **React** and **Ruby**
 - 🏡💻 I've been working as a Front-end Developer I
+- 👩🏽‍💻 I'm currently studying Software Engineering at [PUC Minas](https://www.pucminas.br/destaques/Paginas/default.aspx)
 <br>
 📍  SP - BR <br>
 
