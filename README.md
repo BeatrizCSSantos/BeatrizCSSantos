@@ -4,7 +4,7 @@
   
 <h2 align="center">🚀 💛 It may take a while, but I can learn anything I want!</h2>
 
-- 👩🏽‍💻 I'm currently working as a full-stack developer with technologies like **React**, **Node**, **Ruby**, and *Golang**.
+- 👩🏽‍💻 I'm currently working as a full-stack developer with technologies like **React**, **Node**, **Ruby**, and **Golang**.
 - 💻 Postgraduate in Software Engineering at [PUC Minas](https://www.pucminas.br/destaques/Paginas/default.aspx)
 - ✍🏾 I'm also exploring the world of UX/UI and agile methodologies.
 - 📕 I'm passionate about learning new languages and cultures. 🇪🇸 🇬🇧 🇫🇷
