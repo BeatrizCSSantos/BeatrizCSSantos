@@ -12,9 +12,10 @@
 <br>
 📍World <br>
 
-## 
-<a align="center" href="https://www.linkedin.com/in/beatriz-c-silva-099b7373/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a align="center" href = "mailto:beatrizcss.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div align="center">
+<a href="https://www.linkedin.com/in/beatriz-c-silva-099b7373/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:beatrizcss.dev@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 <div align="center">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=beatrizcssantos&theme=tokyonight&show_icons=true" alt="BeatrizDev" />
